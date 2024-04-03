@@ -8,7 +8,7 @@ Open the collab notebook
 #
 I have used Dreamshaper XL Lightning as the SD model. 
 If you want a safe version use 
-https://huggingface.co/Lykon/dreamshaper-xl-lightning/resolve/main/DreamShaperXL_Lightning-SFW.safetensors?download=true instead.
+https://huggingface.co/Lykon/dreamshaper-xl-lightning/resolve/main/DreamShaperXL_Lightning-SFW.safetensors instead.
 
 # ComfyUI
 ![Alt text](https://github.com/anurajennai/Dreamshaper_XL_Lightning_ComfyUI/blob/main/dreamshaper_xl_lightning_workflow.jpg?raw=true "Workflow")
