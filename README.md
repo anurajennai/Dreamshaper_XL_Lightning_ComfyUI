@@ -13,6 +13,9 @@ https://huggingface.co/Lykon/dreamshaper-xl-lightning/resolve/main/DreamShaperXL
 # ComfyUI
 ![Alt text](https://github.com/anurajennai/Dreamshaper_XL_Lightning_ComfyUI/blob/main/dreamshaper_xl_lightning_workflow.jpg?raw=true "Workflow")
 
+Open ComfyUI and load 
+https://github.com/anurajennai/Dreamshaper_XL_Lightning_ComfyUI/blob/main/dreamshaper_xl_lightning_workflow.json
+
 Use 1024x1024 as default size
 Use DPMPP_SDE as sampler and KARRAS as scheduler
 Use 6 steps and CFG 2. Build negative prompts as needed.
