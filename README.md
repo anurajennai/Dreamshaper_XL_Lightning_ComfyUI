@@ -3,7 +3,7 @@ Comfy UI Colab setup and workflow for Stable diffusion Dreamshaper XL Lightning 
 
 # Introduction
 Here is the collab notebook 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)https://github.com/anurajennai/Dreamshaper_XL_Lightning_ComfyUI/blob/main/Dreamshaper_XL_Lightning_comfyui_colab.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/anurajennai/Dreamshaper_XL_Lightning_ComfyUI/blob/main/Dreamshaper_XL_Lightning_comfyui_colab.ipynb)
 
 #
 I have used Dreamshaper XL Lightning as the SD model. 
