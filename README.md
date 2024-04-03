@@ -1,5 +1,5 @@
 # Dreamshaper_XL_Lightning_ComfyUI
-Comfy UI Colab setup and workflow for Stable diffusion Dreamshaper XL Lightning Model
+ComfyUI Colab setup and workflow for Stable diffusion Dreamshaper XL Lightning Model
 
 # Introduction
 Open the collab notebook 
